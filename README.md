@@ -14,6 +14,7 @@
 - 💬 Ask me about **flutter**
 
 - 📫 How to reach me **yunishpandit98@gmail.com**
+- <p><img aline="right" tsrc="https://assets2.lottiefiles.com/packages/lf20_dl87KC.json" width="500" height="320" ></img></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
